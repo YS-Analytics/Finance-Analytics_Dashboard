@@ -1,13 +1,13 @@
 # 📊 Finance Dashboard – Power BI Project
 ## 1.	Project Title:
-📊 Finance Dashboard: Financial Performance & Business Insights Dashboard
+📊 Personal Finance Dashboard: Expense, Income & Savings Analytics
 
-An interactive Power BI dashboard designed to analyze financial performance, revenue trends, profit analysis, operational costs, and overall business efficiency through data-driven insights.
+An interactive Power BI dashboard designed to analyze personal financial performance, income trends, expense distribution, savings growth, and overall financial management through data-driven insights.
 
 ## 2.	Description:
-The Finance Dashboard is a comprehensive Power BI solution developed to monitor and analyze key financial metrics of a business. It provides deep insights into revenue generation, profit margins, expense management, sales trends, and financial KPIs.
+The Personal Finance Dashboard is a comprehensive Power BI solution developed to monitor and analyze key financial activities including income, expenses, savings, and monthly financial growth. It provides deep insights into spending patterns, savings allocation, expense categories, and financial performance over time.
 
-This dashboard enables stakeholders and decision-makers to track business performance efficiently by transforming complex financial data into interactive and easy-to-understand visualizations.
+This dashboard helps users manage their finances efficiently by transforming complex financial data into interactive and easy-to-understand visualizations, enabling smarter budgeting and better financial decision-making.
 
 ## 3.	Tech Stack:
 The dashboard was built using the following tools and technologies:
